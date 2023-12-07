@@ -48,6 +48,7 @@ function clearFunction(){
         halfButton.classList.remove("clicked");
         fullButton.classList.add("clicked");
     }
+    rate = 35;
     calculate();
     
 }
