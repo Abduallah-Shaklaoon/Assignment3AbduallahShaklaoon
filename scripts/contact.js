@@ -4,7 +4,7 @@ let pageContent = document.getElementById("contact-page");
 fakeButton.addEventListener("click", changePage);
 function changePage(){
     
-    pageContent.innerHTML = "<p class = 'changed'>Thank you for your message!</p>"
+    pageContent.innerHTML = "<p class = 'changed'>Thank you for your message!</p>";
 }
 
 // hint: you can change the style of an element by modifying the value of that element's .style.fontSize, or by updating its .classList.
