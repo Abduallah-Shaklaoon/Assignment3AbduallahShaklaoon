@@ -5,10 +5,10 @@
 let costWeek = document.getElementById("calculated-cost");
 let daysSelected = 0;
 let rate = 35;
-let dayButtons = document.querySelectorAll(".work-days")
+let dayButtons = document.querySelectorAll(".work-days");
 let fullButton = document.getElementById("full");
 let halfButton = document.getElementById("half");
-let clearButton = document.getElementById("clear-button")
+let clearButton = document.getElementById("clear-button");
 
 
 
